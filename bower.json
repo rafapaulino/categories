@@ -1,0 +1,23 @@
+{
+  "name": "tagcloud",
+  "homepage": "https://github.com/rafapaulino/tagcloud",
+  "description": "Nuvem de tags no estilo WordPress",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "tags"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#4.7.0"
+  }
+}
