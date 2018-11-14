@@ -1,7 +1,7 @@
 {
-  "name": "tagcloud",
-  "homepage": "https://github.com/rafapaulino/tagcloud",
-  "description": "Nuvem de tags no estilo WordPress",
+  "name": "categories",
+  "homepage": "https://github.com/rafapaulino/categories",
+  "description": "Lista de categorias para o WordPress",
   "main": "",
   "license": "MIT",
   "keywords": [
